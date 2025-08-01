@@ -1,3 +1,8 @@
+
+import java.util.Arrays;
+
+
+
 public class dupilicate {
     public static void main(String[] args) {
         int a[]={50,40,30,10};
@@ -8,6 +13,8 @@ public class dupilicate {
         for(int i=0;i<a.length ;i++){
             System.out.println(" "+ a[i]);
         }
+       
+        
         //copy array
         int dupilicate[] = new int[a.length];
         for (int i=0;i<a.length;i++){

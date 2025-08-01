@@ -340,7 +340,8 @@ public class hello {
 //         2 1 2
 //       3 2 1 2 3
 //     4 3 2 1 2 3 4
-//   5 4 3 2 1 2 3 4 5 System.out.println("palindrome traingle pattern");
+//   5 4 3 2 1 2 3 4 5 
+System.out.println("palindrome traingle pattern");
         for (int i = 1; i <= a; i++) {
             //space
             for (int j = 1; j <= a - i; j++) {
